@@ -43,7 +43,7 @@ Django 1.4 will be installed, and it is the only requirement. Other requirements
 -----------------------------
 Download and install [mysql 5.1.62](http://downloads.mysql.com/archives.php?p=mysql-5.1&v=5.1.62). Choose Mac OS X 10.6 (AMD64, installer format).
 
-Also install the Pref Pane, which helps to start/stop mysql server from Preference. You should not install the Startup Item. Start mysql.
+Also install the Pref Pane, which helps to start/stop mysql server from Preference Panel. You should not install the Startup Item. If you didn't use the Preference Panel, start mysql using these commands.
 
     cd /usr/local/mysql
     sudo ./bin/mysqld_safe
